@@ -7,6 +7,7 @@ Betaflight is flight controller software (firmware) used to fly multi-rotor craf
 This fork differs from Baseflight and Cleanflight in that it focuses on flight performance, leading-edge feature additions, and wide target support.
 
 ## Events
+Demo of git for EE group
 
 | Date  | Event |
 | - | - |
