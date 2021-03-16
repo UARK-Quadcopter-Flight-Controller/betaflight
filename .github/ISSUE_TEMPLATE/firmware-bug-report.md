@@ -1,8 +1,12 @@
 ---
 name: Firmware Bug Report
 about: Create a report to help us fix bugs in the Betaflight firmware
-labels: "Template: Bug"
+title: ''
+labels: ''
+assignees: ''
+
 ---
+
 <!-- This is a template that you must fill. If not, the message will be closed. So don't erase any subtitle in this template (they start with ###)
 and complete all of them -->
 

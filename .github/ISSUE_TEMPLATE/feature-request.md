@@ -1,8 +1,12 @@
 ---
 name: Feature Request
 about: Suggest an idea for for a new feature for Betaflight
-labels: "Template: Feature Request"
+title: ''
+labels: ''
+assignees: ''
+
 ---
+
 <!-- This is a template that you must fill. If not, the message will be closed. So don't erase any subtitle in this template (they start with ###)
 and complete all of them -->
 
